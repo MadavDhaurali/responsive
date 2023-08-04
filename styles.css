@@ -167,7 +167,9 @@ section .title::after{
 .home{
     display: flex;
     /*background: url("https://media.licdn.com/dms/image/C4E03AQGs4zk27XxfZw/profile-displayphoto-shrink_800_800/0/1648204338427?e=1695254400&v=beta&t=LJl2t1UvTROsLIg6sbsTq4uIohUlLwZ4fWMhYt_6jz8");*/
+    
     /*background: url("https://scontent.fdel29-1.fna.fbcdn.net/v/t1.6435-9/188258012_1204933923278957_5622535350624363397_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=loaf1AGVbngAX_MdPtb&_nc_ht=scontent.fdel29-1.fna&oh=00_AfDFrDuOBpB2FnwD-oHC0gn_wxn_vehi5q_TZhrPUoB42A&oe=64F4A3AA");*/
+    background: url("https://scontent.fdel29-1.fna.fbcdn.net/v/t1.6435-9/51480971_2213915668928309_5332087041968570368_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=174925&_nc_ohc=xTvvsEuLYOsAX-dmwkT&_nc_ht=scontent.fdel29-1.fna&oh=00_AfCA2zlHC-73hfYrNcXN8Zg-l1_kSE5PAcHut-6xsEY7lA&oe=64F4A5E9");
     color: #fff;
     min-height: 500px;
     background-size: cover;
